@@ -44,5 +44,11 @@ This project demonstrates data analysis and visualization using the Living Plane
 - seaborn
 - Jupyter Notebook
 
+### Conclusion
+- Global biodiversity has declined significantly since 1970
+- The rate of decline varies across regions
+- Confidence intervals indicate increasing uncertainty
+- Data smoothing reveals long-term trends clearly
+
 ### Author
 vaslinx

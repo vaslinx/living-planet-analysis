@@ -1,2 +1,48 @@
-# living-planet-analysis
-Analysis of global biodiversity trends using Living Planet Index data
+# Living Planet Index Analysis Project
+
+This project demonstrates data analysis and visualization using the Living Planet Index dataset, which reflects global biodiversity trends over time.
+
+## Project Structure
+
+### Project Goals
+- Analyze global biodiversity trends
+- Compare regions over time
+- Identify patterns and variability in LPI data
+
+### Data Processing
+- Data loading (CSV)
+- Data cleaning and validation
+- Handling missing values
+- Renaming columns for удобства анализа
+
+### Exploratory Data Analysis (EDA)
+- Overview of regions and time range
+- Trend analysis by region
+- Global biodiversity trend (World)
+- Distribution of LPI values across regions
+
+### Visualizations
+- Living Planet Index by Region (line plot)
+- Global LPI Trend
+- LPI with Confidence Interval
+- Distribution of LPI by Region (boxplot)
+- LPI by Region in 2020 (barplot)
+- Smoothed LPI Trend (rolling average)
+- Correlation Heatmap
+
+### Key Findings
+- Global biodiversity shows a declining trend since 1970
+- Some regions decline faster than others
+- Data variability increases in recent years
+- Strong correlation between LPI and its confidence bounds
+
+### Technologies
+- Python
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- Jupyter Notebook
+
+### Author
+vaslinx

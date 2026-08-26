@@ -5,11 +5,10 @@ Covers data cleaning, time series visualization, regional comparison, smoothing,
  
 
 ## Dataset
-**Source**: [Living Planet Index](https://ourworldindata.org/grapher/living-planet-index-by-region) - Our World in Data
-**Publisher**: WWF / Zoological Society of London
-**Description**: Global and regional biodiversity index tracking vertebrate 
-  population trends from 1970 to 2020
-**License**: Public Domain
+* **Source**: [Living Planet Index](https://ourworldindata.org/grapher/living-planet-index-by-region) - Our World in Data
+* **Publisher**: WWF / Zoological Society of London
+* **Description**: Global and regional biodiversity index tracking vertebrate population trends from 1970 to 2020
+* **License**: Public Domain
 
 ## Project Structure
 * global-living-planet-index.csv

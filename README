@@ -2,7 +2,7 @@
 ## About project
 Exploratory data analysis of global biodiversity trends using the Living Planet Index dataset.
 Covers data cleaning, time series visualization, regional comparison, smoothing, and correlation analysis. 
-
+ 
 
 ## Dataset
 **Source**: [Living Planet Index](https://ourworldindata.org/grapher/living-planet-index-by-region) - Our World in Data
